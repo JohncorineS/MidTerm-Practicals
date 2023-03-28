@@ -1,4 +1,4 @@
 print("hello,world")
-a=10
+a=90
 b=50
 c=a+b
